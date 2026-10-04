@@ -5,3 +5,5 @@ Plataforma de automação do Digital Workplace: um catálogo de automações em 
 Apresentação: <https://new-frontier-abi.github.io>
 
 Página do time de automações: <https://new-frontier-abi.github.io/automacoes/>
+
+Página do time do ServiceNow: <https://new-frontier-abi.github.io/servicenow/>
