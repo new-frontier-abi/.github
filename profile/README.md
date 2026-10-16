@@ -5,7 +5,7 @@
 
 # DW Automation Platform
 
-Plataforma de automação do Digital Workplace: agentes em todas as operações, criados pela IDE sobre um catálogo de automações em Python e os eventos e as ferramentas do ServiceNow.
+Plataforma de agentes e automação do Digital Workplace: agentes em todas as áreas da companhia, criados pela IDE. O Automation Hub (catálogo de automações em Python) e o ServiceNow (eventos e ferramentas) são complementos.
 
 Apresentação, a partir dos agentes: <https://new-frontier-abi.github.io>
 
